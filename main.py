@@ -524,7 +524,7 @@ while True:
                         print("    command - 显示该命令的详细内容")
                     if cmdlist[1] == "find" or cmdlist[1] == "FIND":
                         print("在文件中寻找字符串")
-                        print("使用方法：")
+                        print("使用方法：")111
                         print("find string path")
                         print("string - 要寻找的字符串")
                         print("path - 寻找的文件路径")
